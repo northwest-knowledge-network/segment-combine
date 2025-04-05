@@ -1,6 +1,4 @@
 
-# combine.py
-
 Combine base PLY, semantic PLY, and instance PLY into a single LAS/LAZ file.
 
 ## Usage
